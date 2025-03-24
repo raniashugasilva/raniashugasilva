@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!  
 
-<!--
-**raniashugasilva/raniashugasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m currently working on:  
+- GreenCode Initiative → AI + Tech for environmental sustainability  
+- AI & ML Projects → Automating real-world solutions  
+- Competitive Coding & DevOps** → Preparing for 12th,SAT ,JEE & AP Exams  
 
-Here are some ideas to get you started:
+ I’m currently learning:  
+-  IBM DevOps & AI (harvard) | CS50 | Data Science  
+-  SAT & AP Prep (Calc BC, Stats, Bio)  
+-  JEE Advanced & Competitive Math  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ I’m looking to collaborate on:  
+- Open-source AI & DevOps projects  
+- Research in Data Science & Machine Learning  
+- Sustainable Tech Initiatives  
+
+📫 How to reach me:  
+- 📩 Email: raniasilva208@gmail.com
+
+
+ Fun fact: I’m on a mission to win awards & make a real impact through CS & AI! 
 -->
